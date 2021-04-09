@@ -14,5 +14,5 @@ public class Main {
 ////        f.setVisible(true);
 //    }
 
-    // vinhit vua them vao
+    // vinhit vua them vao cua dang
 }
